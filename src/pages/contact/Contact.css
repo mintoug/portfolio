@@ -1,0 +1,23 @@
+.contact{
+width: 600px;
+ margin: 10vw auto;
+}   
+.social-icons a{
+    color:blue;
+    font-size: 1.7em;
+    padding-right: 30px;
+}
+.img{
+    width: 30vw;
+    background-color: #F6F6F6;
+    height: 100vh;
+    overflow: hidden;
+}
+img{
+    width: 100%;
+    object-fit: cover;
+    margin: 0 auto;
+}
+.content{
+    display: flex;
+}
