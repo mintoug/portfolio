@@ -5,8 +5,8 @@ import {items} from "../../assets/datas/data"
 const Home = () => {
 
   return (
-    <div style={{ width: '700px', height: '550px', margin:'0 auto' }}>
-  <Chrono items={items} mode="VERTICAL_ALTERNATING" />
+    <div style={{ width: '70vw', height: '80vh', margin:'0 auto' }}>
+  <Chrono items={items} mode="VERTICAL" enableOutline />
 </div>
   )
 }

@@ -1,0 +1,23 @@
+header{
+    background-color: gainsboro;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 200px;
+    margin-bottom: 100px;
+}
+.logo{
+text-decoration: none;
+color: blue;
+text-transform: uppercase;
+font-weight: 700;
+font-size: 1.8em;
+}
+.navigation a{
+text-decoration: none;
+color: blue;
+font-weight: 800;
+font-size: 1.1em;
+padding-left: 30px;
+}
