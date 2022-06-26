@@ -20,7 +20,7 @@ img{
 }
 .content{
     display: flex;
-}@media (max-width:768px){
+}@media (max-width:882px){
     .img{
         height: 100%;
         width: 100vw;

@@ -61,3 +61,8 @@ margin-top: 10px;
 .more-details:hover{
     color:blueviolet;
 }
+@media (max-width:568px){
+    .project-card{
+        width: 95vw;
+    }
+}

@@ -25,4 +25,7 @@ padding-left: 30px;
     .logo{
         font-size: 1.3rem;
     }
+    .navigation a{
+        font-size: 0.8rem;
+    }
 }
