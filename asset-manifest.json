@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.9fc726a8.css",
+    "main.js": "/portfolio/static/js/main.5631e25c.js",
+    "static/media/casa.png": "/portfolio/static/media/casa.2bb20895aad1b9a10877.png",
+    "static/media/photo.png": "/portfolio/static/media/photo.d20a00a4a8dd393f383a.png",
+    "static/media/gameon.png": "/portfolio/static/media/gameon.6348ad926fe7c8f8f506.png",
+    "static/media/reservia.png": "/portfolio/static/media/reservia.972273255d30530ec055.png",
+    "static/media/fisheye.png": "/portfolio/static/media/fisheye.a5c972c960bc19326303.png",
+    "static/media/argent.png": "/portfolio/static/media/argent.3398932bbd5a12405e2e.png",
+    "static/media/portfolio.png": "/portfolio/static/media/portfolio.dcb67576c283b47ec16b.png",
+    "static/media/ohmyfood.png": "/portfolio/static/media/ohmyfood.3deedf29b03b679af3d4.png",
+    "static/media/dashbord.png": "/portfolio/static/media/dashbord.9e39d0538d18bbee81b5.png",
+    "static/media/learn.png": "/portfolio/static/media/learn.e4416ff836a6dde847e1.png",
+    "static/media/algorithmes.png": "/portfolio/static/media/algorithmes.5fa16bb9b88c8a93a885.png",
+    "static/media/hrnet.png": "/portfolio/static/media/hrnet.a2e1524b4fe0bb1c5a71.png",
+    "static/media/bills.png": "/portfolio/static/media/bills.84fda55bca513db735d2.png",
+    "index.html": "/portfolio/index.html",
+    "main.9fc726a8.css.map": "/portfolio/static/css/main.9fc726a8.css.map",
+    "main.5631e25c.js.map": "/portfolio/static/js/main.5631e25c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fc726a8.css",
+    "static/js/main.5631e25c.js"
+  ]
+}
