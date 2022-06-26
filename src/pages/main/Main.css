@@ -29,6 +29,16 @@
     margin-top: 10px;
     margin-bottom: 30px;
 }
+p{
+    width: 40rem;
+    font-size: 1.5rem;
+    font-style: italic;
+    margin: 0 20px;
+    text-align: center;
+}
+.bold{
+    font-weight: 600;
+}
 @media (max-width:768px){
     .main h3{
         font-size: 1rem;
@@ -43,8 +53,14 @@
          font-size: 1rem;
     }
     .main{
-        margin-top: 100px;
+        margin-top: 50px;
         display: flex;
         flex-direction: column-reverse;
+    }
+    p{
+        font-size: .8rem;
+        width: 70vw;
+        height: auto;
+
     }
 }
