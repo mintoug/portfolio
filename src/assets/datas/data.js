@@ -2,20 +2,20 @@ export const items = [
 {
     title: "2022",    
      cardTitle: "Développeuse Front-end",
-     cardSubtitle:"titre RNCP",
-    cardDetailedText: "recherche d'emploi"
+     cardSubtitle:"Titre RNCP : Bac +3/4ans",
+    cardDetailedText:"React-Javascript, HTML/CSS responsive, API, Jest,..."
 }    
 ,
 {
     title: "2020-2022",    
-    cardTitle: "Développeuse en formation",
-    cardSubtitle:" Ecole : Openclasseroom",
-    cardDetailedText: "réussite de mon parcours par la réalisation de projets divers"
+    cardTitle: "Formation",
+    cardSubtitle:" Openclasseroom",
+    cardDetailedText: "Réussite par la réalisation de projets puis passage au Jury"
 },
 {
     title: "2019-2020",  
-    cardTitle: "Projet de conversion professionnelle",
-    cardSubtitle:"vers les métier du web",
+    cardTitle: "Conversion professionnelle",
+    cardSubtitle:"vers les métiers du web",
     cardDetailedText: "formation en autodidacte : udemy, youtube..."
 },
 {
@@ -26,16 +26,16 @@ export const items = [
 
 {   title:"2006-2012",
     cardTitle: "Stages",
-    cardSubtitle:"lieu hopiataux de monastir et mahdia (en Tunisie)",
+    cardSubtitle:"lieu hôpitaux de Monastir et Mahdia (en Tunisie)",
     cardDetailedText: "assurer des consultations, assister à des séminaires, faire des présentations orales"
 },
 {    title: "2001-2005",
-    cardTitle: "université",
-    cardtitle:"etudes en tunisie , faculté de médecine de Monastir",
+    cardTitle: "Université",
+    cardSubtitle:"Etudes en tunisie , faculté de médecine de Monastir",
     cardDetailedText: "domaine de la santé, études médicales"
 },
 {  title: "2000",
-   cardTitle: "bac math",
-   cardSubtitle:"réussite aux épreuves de baccalauréat section mathématiques en Tunisie",
+   cardTitle: "Bac math",
+   cardSubtitle:"Réussite au baccalauréat section mathématiques en Tunisie",
 }   
 ];
