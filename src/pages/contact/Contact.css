@@ -20,4 +20,19 @@ img{
 }
 .content{
     display: flex;
+}@media (max-width:768px){
+    .img{
+        height: 100%;
+        width: 100vw;
+    }
+    h2{
+        font-size: small;
+    }
+    h3{
+        font-size: small;
+    }
+    .content{
+        width: 80vw;
+        margin: 0 auto;
+    }
 }

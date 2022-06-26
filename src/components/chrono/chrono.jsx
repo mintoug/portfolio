@@ -8,8 +8,8 @@ const Home = () => {
     
 
 
-    <div style={{ width: '70vw', height: '80vh', margin:'0 auto' }}>
-  <Chrono items={items} mode="VERTICAL" enableOutline />
+    <div style={{ width: '98vw', height: '100%', margin:'0 auto' }}>
+  <Chrono items={items} mode="VERTICAL" />
 </div>
 
   )

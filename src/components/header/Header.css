@@ -1,10 +1,11 @@
 header{
     background-color: gainsboro;
-    width: 100%;
+    width: 100vw;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 10px 200px;
+   padding: 20px;
+   overflow-x: hidden;
 }
 .logo{
 text-decoration: none;
@@ -19,4 +20,9 @@ color: blue;
 font-weight: 800;
 font-size: 1.1em;
 padding-left: 30px;
+}
+@media (max-width:768px){
+    .logo{
+        font-size: 1.3rem;
+    }
 }
