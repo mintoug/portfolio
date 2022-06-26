@@ -40,6 +40,8 @@ margin-top: 10px;
 .project-category{
     font-size: 0.8em ;
     color: black;
+    margin: 0 auto;
+    width: max-content;
 }
 .project-title{
     display: flex;
@@ -64,5 +66,10 @@ margin-top: 10px;
 @media (max-width:568px){
     .project-card{
         width: 95vw;
+    }
+    .more-details .project-title{
+        font-size: 0.5rem;
+        font-weight: 600;
+        width: max-content;
     }
 }
