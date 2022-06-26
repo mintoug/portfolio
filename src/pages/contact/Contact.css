@@ -9,9 +9,9 @@ width: 600px;
 }
 .img{
     width: 30vw;
-    background-color: #F6F6F6;
     height: 100vh;
     overflow: hidden;
+    margin-top: 100px;
 }
 img{
     width: 100%;
