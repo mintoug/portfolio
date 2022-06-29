@@ -8,9 +8,9 @@ function Main() {
     <div className="info">
         <h2>Je suis Anissa Mandhouj<br/>
         <span>développeuse front-end</span></h2>
-      <p><span className='bold'>«</span> Ma Passion pour le web me domine malgré ma première expérience dans le domaine de la santé puis biologie de la santé, je me suis lancée dans la quête d'écouter mes envies, en effet mes débuts remontaient à l'ère de Pascal et premier HTML, au lycée, depuis le regret me poursuit jusqu'au jour ou j'ai décidé de faire ma conversion professionnelle; 
-        <h3>applications javascript - React</h3>
-        Je suis Développeuse Front-end et fière de l'être ! <br /><span className='bold'> A travers mon portfolio je présente mes principaux projets réalisés, ma passion est sans limites, je suis autonome, curieuse, rigoureuse et je souhaite intégrer une équipe de travail avec laquelle on avance vers de nouveaux défis.</span> »</p>
+      <p><span className='bold'>«</span>Après une première expérience dans le domaine de la santé, je suis passionnée par les technologies du web . Mes débuts remontaient à l'ère de la programmation en Pascal et aux premiers HTML et css, au lycée.
+        
+      <br /><span className='bold'> A travers mon portfolio je présente mes principaux projets réalisés avec Openclassrooms . Je suis autonome, curieuse, rigoureuse et je souhaite intégrer une équipe de travail avec laquelle on avance vers de nouveaux défis.</span> »</p>
 
     </div>
     <div className="image">

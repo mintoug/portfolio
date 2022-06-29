@@ -9,7 +9,7 @@ export const items = [
 {
     title: "2020-2022",    
     cardTitle: "Formation",
-    cardSubtitle:" Openclasseroom",
+    cardSubtitle:" Openclasserooms",
     cardDetailedText: "Réussite par la réalisation de projets puis passage au Jury"
 },
 {
