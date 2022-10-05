@@ -12,7 +12,7 @@
     width: 20vw;
 }
 .info{
-    text-align: center;
+    text-align: -webkit-center!important;
 }
 .main h2{
     font-size: 1.4em;
