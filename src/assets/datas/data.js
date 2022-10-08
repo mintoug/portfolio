@@ -1,9 +1,9 @@
 export const items = [
 {
     title: "2022",    
-     cardTitle: "Développeuse Front-end",
+     cardTitle: "Développeuse d'applications Front-end",
      cardSubtitle:"Titre RNCP : Bac +3/4ans",
-    cardDetailedText:"React-Javascript, HTML/CSS responsive,..."
+    cardDetailedText:"React-Javascript"
 }    
 ,
 {
@@ -13,20 +13,20 @@ export const items = [
     cardDetailedText: "Réussite par la réalisation de projets puis passage au Jury"
 },
 {
-    title: "2019-2020",  
+    title: "2020",  
     cardTitle: "Conversion professionnelle",
     cardSubtitle:"vers les métiers du web",
-    cardDetailedText: "formation en autodidacte : udemy, youtube..."
+    cardDetailedText: "formation en autodidacte"
 },
 {
     title: "2012-2018",
     cardSubtitle:"Manman en plein temps",
-    cardDetailedText: "choix personnel de m'occuper des enfants en bas âge."
+    cardDetailedText: "des enfants en bas âge."
 },
 
 {   title:"2006-2012",
     cardTitle: "Stages",
-    cardSubtitle:"lieu hôpitaux de Monastir et Mahdia (en Tunisie)",
+    cardSubtitle:"lieu hôpitaux (en Tunisie)",
     cardDetailedText: "assurer des consultations, assister à des séminaires"
 },
 {    title: "2001-2005",
@@ -35,7 +35,7 @@ export const items = [
     cardDetailedText: "domaine de la santé, médecine"
 },
 {  title: "2000",
-   cardTitle: "Bac math",
-   cardSubtitle:"Réussite au baccalauréat section mathématiques en Tunisie",
+   cardTitle: "Bac maths",
+   cardSubtitle:"baccalauréat section mathématiques en Tunisie",
 }   
 ];

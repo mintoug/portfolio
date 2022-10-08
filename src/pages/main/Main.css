@@ -1,18 +1,25 @@
+body{
+    height: 100vh;
+    background: linear-gradient(beige,#C7998B);
+}
 .main{
     max-height: 100vh;
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: space-around;
-    background-color:#fff;
-   margin-top: 70px;
+    margin-top: 70px;
+}
+.image{
+    border-radius: 15px;
 }
 .image>img{
     object-fit: cover;
     width: 20vw;
+    border-radius: 25px;
 }
 .info{
-    text-align: -webkit-center!important;
+    text-align: -webkit-center;
 }
 .main h2{
     font-size: 1.4em;
@@ -39,6 +46,7 @@ p{
     font-style: italic;
     margin: 0 auto;
     padding: 0 20px;
+    text-align: center;
 }
 .bold{
     font-weight: 600;

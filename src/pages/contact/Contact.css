@@ -1,6 +1,7 @@
 .contact{
-width: 600px;
- margin: 10vw auto;
+    width: 600px;
+    margin: 10vw auto;
+    overflow: hidden;
 }   
 .social-icons a{
     color:blue;
@@ -20,7 +21,9 @@ img{
 }
 .content{
     display: flex;
-}@media (max-width:882px){
+    background: linear-gradient(beige,#C7998B);
+}
+@media (max-width:882px){
     .img{
         height: 100%;
         width: 100vw;
