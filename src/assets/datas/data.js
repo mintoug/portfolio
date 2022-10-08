@@ -30,6 +30,6 @@ export const items = [
 },
 {  title: "2000",
    cardTitle: "Bac maths",
-   cardSubtitle:"baccalauréat section mathématiques en Tunisie",
+   cardDetailedText:"baccalauréat section mathématiques en Tunisie",
 }   
 ];
