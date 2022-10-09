@@ -6,7 +6,7 @@ function Main() {
   return (
     <section className ="main">
     <div className="info">
-        <h2>Je suis Anissa Mandhouj<br/>
+        <h2>Anissa Mandhouj<br/>
         <span>développeuse front-end</span></h2>
       <p><span className='bold'>«</span>Je suis passionnée par les technologies du web, ce qui m'a amené à faire une reconversion professionnelle, j'ai réussi mon titre professionnel de développeuse d'applications front-end. J'aspire intégrer une entreprise pour avançer mon expérience professionnelle par des nouveaux défis et par l'apprentissage du back-end. 
         
