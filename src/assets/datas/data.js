@@ -1,4 +1,22 @@
 export const items = [
+    {
+        title: "2024: Janvier-Avril ",    
+        cardTitle: "Employé à Auchan ",
+        cardDetailedText:"Rayon mode"
+    }    
+    ,
+    {
+        title: "2023",    
+        cardTitle: "création et gestion restaurant",
+        cardDetailedText:"projet familial pour mon conjoint"
+    }    
+    ,
+    {
+        title: "2022-2023",    
+        cardTitle: "Vente en ligne accessoires de mode",
+        cardDetailedText:"auto-entrepreneuse"
+    }    
+    ,
 {
     title: "2022",    
     cardTitle: "Développeuse d'applications Front-end",
