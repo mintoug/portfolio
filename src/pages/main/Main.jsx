@@ -11,7 +11,8 @@ function Main() {
       <p><span className='bold'>«</span>Passionnée par les technologies du web et du digital j'ai fait une reconversion de la médeçine, j'ai réussi mon titre professionnel de développeuse d'applications front-end 
       et developpé plusieurs en autonomie plusieurs experiences dans le numérique et le marketing.
       
-      <br /><span className='bold'> A travers mon portfolio je présente mes principaux projets réalisés avec Openclassrooms . Je suis autonome, curieuse, rigoureuse et je souhaite intégrer une équipe de travail avec laquelle on avance vers de nouveaux défis.</span> »</p>
+      <br /><span className='bold'> A travers mon portfolio je présente mes principaux projets réalisés avec Openclassrooms . 
+      </span> »</p>
 
     </div>
     <div className="image">
