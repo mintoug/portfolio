@@ -15,9 +15,9 @@ function Contact() {
         <h3>Paris et périphérie</h3>
           
         <div className="social-icons">
-            <a href="https://github.com/mintoug" target="_blank"><i className="fa-brands fa-github"></i></a>
-            <a href="https://www.linkedin.com/in/anissa-mandhouj-b562481a6/" target="_blank" ><i className="fa-brands fa-linkedin"></i></a>
-            <a href="https://twitter.com/AnissaMandhouj" target="_blank" ><i className="fa-brands fa-twitter"></i></a>
+            <a href="https://github.com/mintoug" ><i className="fa-brands fa-github"></i></a>
+            <a href="https://www.linkedin.com/in/anissa-mandhouj-b562481a6/"  ><i className="fa-brands fa-linkedin"></i></a>
+            <a href="https://twitter.com/AnissaMandhouj" ><i className="fa-brands fa-twitter"></i></a>
         </div>
 
     </div>
