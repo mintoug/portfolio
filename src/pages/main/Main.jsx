@@ -8,8 +8,9 @@ function Main() {
     <div className="info">
         <h2>Anissa Mandhouj<br/>
         <span>développeuse front-end</span></h2>
-      <p><span className='bold'>«</span>Je suis passionnée par les technologies du web, ce qui m'a amené à faire une reconversion professionnelle, j'ai réussi mon titre professionnel de développeuse d'applications front-end. J'aspire intégrer une entreprise pour avançer mon expérience professionnelle par des nouveaux défis et par l'apprentissage du back-end. 
-        
+      <p><span className='bold'>«</span>Passionnée par les technologies du web et du digital j'ai fait une reconversion de la médeçine, j'ai réussi mon titre professionnel de développeuse d'applications front-end 
+      et developpé plusieurs en autonomie plusieurs experiences dans le numérique et le marketing.
+      
       <br /><span className='bold'> A travers mon portfolio je présente mes principaux projets réalisés avec Openclassrooms . Je suis autonome, curieuse, rigoureuse et je souhaite intégrer une équipe de travail avec laquelle on avance vers de nouveaux défis.</span> »</p>
 
     </div>
