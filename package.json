@@ -38,5 +38,16 @@
   },
   "devDependencies": {
     "gh-pages": "^4.0.0"
+  },
+  "description": "1. Clone the repository of ArgentBank front-end:   \r `git clone https://github.com/mintoug/portfolio.git`",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mintoug/portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mintoug/portfolio/issues"
   }
 }
