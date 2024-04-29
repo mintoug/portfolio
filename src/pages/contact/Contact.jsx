@@ -4,6 +4,8 @@ import contact from '../../assets/images/images/contact.jpg'
 
 function Contact() {
   return (
+    <div className='all'>
+ <div className='contact-1'>Contact</div>
       <div className='content'>
       <div className="img">
     <img src={contact} alt="" />
@@ -22,6 +24,8 @@ function Contact() {
 
     </div>
     </div>
+    </div>
+    
   )
 }
 

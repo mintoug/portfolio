@@ -16,9 +16,11 @@ import portfolio from '../../assets/images/images/portfolio.png'
 
 function Projets() {
   return (
+   
     <section className="projets" >
-    <h2 className="title">projets</h2>
-    <div className="content">
+    
+    <div className="title">Projets sites web</div>
+    <div className="content-">
         <div className="project-card">
             <div className="project-img">
                 <img src={reservia} alt="" />
@@ -28,7 +30,7 @@ function Projets() {
                 <strong className="project-title">
                 <span >html-css-grid</span>
             
-                <a href ="https://github.com/mintoug/anissaMandhouj_2_11032021.git"  className="more-details" target="_blank">plus de détails</a>
+                <a href ="https://github.com/mintoug/anissaMandhouj_2_11032021.git"  className="more-details">plus de détails</a>
             
             </strong>
 
@@ -43,7 +45,7 @@ function Projets() {
                 <strong className="project-title">
                 <span >JS-formulaire</span>
             
-                <a href="https://github.com/mintoug/GameOn-website-FR"  className="more-details" target="_blank">plus de détails</a>
+                <a href="https://github.com/mintoug/GameOn-website-FR"  className="more-details" >plus de détails</a>
             </strong>
             </div>
         </div>
@@ -56,7 +58,7 @@ function Projets() {
                 <strong className="project-title">
                 <span >javascript</span>
             
-                <a href="https://github.com/mintoug/anissamandhouj-7-11032021"  className="more-details" target="_blank">plus de détails</a>
+                <a href="https://github.com/mintoug/anissamandhouj-7-11032021"  className="more-details" >plus de détails</a>
             </strong>
             </div>
         </div>
@@ -69,7 +71,7 @@ function Projets() {
                 <strong className="project-title">
                 <span >test avec Jest</span>
             
-                <a href="https://github.com/mintoug/anissamandhouj-9-11032021"  className="more-details" target="_blank" >plus de détails</a>
+                <a href="https://github.com/mintoug/anissamandhouj-9-11032021"  className="more-details"  >plus de détails</a>
             </strong>
             </div>
         </div>
@@ -82,7 +84,7 @@ function Projets() {
                 <strong className="project-title">
                 <span > react rechart js</span>
             
-                <a href="https://github.com/mintoug/AnissaMandhouj_12_11032021"  className="more-details" target="_blank">plus de détails</a>
+                <a href="https://github.com/mintoug/AnissaMandhouj_12_11032021"  className="more-details" >plus de détails</a>
             </strong>
             </div>
         </div>
@@ -94,7 +96,7 @@ function Projets() {
                 <p className="project-category">kasa</p>
                 <strong className="project-title">
                 <span >React</span>
-                <a href="https://github.com/mintoug/anissaMandhouj_11_23112021"  className="more-details" target="_blank">plus de détails</a>
+                <a href="https://github.com/mintoug/anissaMandhouj_11_23112021"  className="more-details" >plus de détails</a>
             </strong>
             </div>
         </div>
@@ -106,7 +108,7 @@ function Projets() {
                 <p className="project-category">Ohmyfood</p>
                 <strong className="project-title">
                 <span >sass-animation</span>
-                <a href="https://github.com/mintoug/anissamandhouj_3_11032021"  className="more-details" target="_blank">plus de détails</a>
+                <a href="https://github.com/mintoug/anissamandhouj_3_11032021"  className="more-details" >plus de détails</a>
             </strong>
             </div>
         </div>
@@ -118,7 +120,7 @@ function Projets() {
                 <p className="project-category">Fisheye</p>
                 <strong className="project-title">
                 <span >JS Vanilla</span>
-                <a href="https://github.com/mintoug/anissamandhouj_p6_11032021"  className="more-details" target="_blank">plus de détails</a>
+                <a href="https://github.com/mintoug/anissamandhouj_p6_11032021"  className="more-details">plus de détails</a>
             </strong>
             </div>
         </div>
@@ -130,7 +132,7 @@ function Projets() {
                 <p className="project-category">learn@home</p>
                 <strong className="project-title">
                 <span >userstories figma...</span>
-                <a href="https://github.com/mintoug/anissamandhouj-10-11032021"  className="more-details" target="_blank">plus de détails</a>
+                <a href="https://github.com/mintoug/anissamandhouj-10-11032021"  className="more-details" >plus de détails</a>
             </strong>
             </div>
         </div>
@@ -142,7 +144,7 @@ function Projets() {
                 <p className="project-category">HRnet</p>
                 <strong className="project-title">
                 <span >react npm</span>
-                <a href="https://github.com/mintoug/anissa_mandhouj_14_08052022"  className="more-details" target="_blank">plus de détails</a>
+                <a href="https://github.com/mintoug/anissa_mandhouj_14_08052022"  className="more-details">plus de détails</a>
             </strong>
             </div>
         </div>
@@ -154,7 +156,7 @@ function Projets() {
                 <p className="project-category">argent-bank</p>
                 <strong className="project-title">
                 <span >Api Redux-Toolkit</span>
-                <a href="https://github.com/mintoug/anissa-mandhouj-13-front-12032022"  className="more-details" target="_blank">plus de détails</a>
+                <a href="https://github.com/mintoug/anissa-mandhouj-13-front-12032022"  className="more-details">plus de détails</a>
             </strong>
             </div>
         </div>
@@ -166,13 +168,15 @@ function Projets() {
                 <p className="project-category">Portfolio</p>
                 <strong className="project-title">
                 <span >react</span>
-                <a href="https://github.com/mintoug/portfolio"  className="more-details" target="_blank">plus de détails</a>
+                <a href="https://github.com/mintoug/portfolio"  className="more-details" >plus de détails</a>
             </strong>
             </div>
         </div>
     </div>
     
 </section>
+
+
   )
 }
 
