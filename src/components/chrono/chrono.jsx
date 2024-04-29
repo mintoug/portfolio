@@ -10,7 +10,7 @@ const Home = () => {
    
    <div className="professionnel">Parcours Professionnel</div>
 
-    <div style={{ width: '80vw', height: '100%', margin:'0 auto' }}>
+    <div style={{ width: '90vw', height: '100%', margin:'0 auto' }}>
   <Chrono items={items} mode="VERTICAL" />
 </div>
 
