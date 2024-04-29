@@ -30,7 +30,7 @@ function Skills() {
             <h3 className="categorie">marketing</h3>
                 <p className="caterorie-p">
                     * premières expériences des méthodes de marketing.<br/>
-                    * première expérience dans la gestion de projet marketing : négocation, vente , achat...<br/>
+                    * première expérience dans la gestion de projet marketing :<br/> négocation, vente , achat...<br/>
                 </p>
             </div>
             <div className="contenant-item">
