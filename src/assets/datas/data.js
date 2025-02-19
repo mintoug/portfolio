@@ -1,6 +1,6 @@
 export const items = [
     {
-        title: "2024: Janvier-Avril ",    
+        title: "2024 ",    
         cardTitle: "Employé à Auchan ",
         cardDetailedText:"Rayon mode"
     }    
